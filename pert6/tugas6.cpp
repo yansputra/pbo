@@ -15,7 +15,7 @@ class Waktu{
              //untuk menyembunyikan detail dan detail implementasi suatu objek.
              //sedangkan enkapsulasi sendiri pada perogram jam ini terdapat di private 
              //yang di mana si private ialah dapat diketahuinformasi yang di sembunyikan
-             //dan hanyai atau diakses oleh variabel yang memiliki akses ke private 
+             //  dan hanyai atau diakses oleh variabel yang memiliki akses ke private 
         int jam;
         int menit;
         int detik;
